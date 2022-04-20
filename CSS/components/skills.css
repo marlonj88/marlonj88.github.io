@@ -1,0 +1,14 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #F21F0C;
+    height: 700px;
+    border-bottom: 10px solid #0E3740;
+}
+
+.skills .boxskills {
+    display: flex;
+    justify-content: space-evenly;
+}

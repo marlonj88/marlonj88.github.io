@@ -1,0 +1,26 @@
+.banner {
+    box-sizing: border-box;
+    background-image: url(../../assets/img/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 718px;
+    border-bottom: 10px solid #FFF;
+    padding-top: 115px;
+    padding-left: 90px;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+}
+
+.banner .box {
+    margin-bottom: 40px;
+}
+
+.banner .navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

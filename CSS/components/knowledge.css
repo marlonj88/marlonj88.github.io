@@ -1,0 +1,31 @@
+.knowledge {
+    display: flex;
+    margin-bottom: 38px;
+    align-items: center;
+}
+
+.knowledge img {
+    margin-right: 26px;
+}
+
+.knowledge h3 {
+    font-family: 'Press Start 2P';
+    font-size: 25px;
+    color: #FFF;
+}
+
+.knowledge .boxlevel {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 80px;
+    justify-content: space-between;
+}
+
+.knowledge .level {
+    background-color: #FFF;
+    width: 320px;
+    height: 40px;
+    border: 5px solid #000;
+    box-sizing: border-box;
+}
